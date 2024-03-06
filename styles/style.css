@@ -63,6 +63,10 @@ body {
 .red {
     color: red;
 }
+
+.card {
+    box-shadow: 10px 10px #003399;
+}
 /*# sourceMappingURL=style.css.map */
 
 /* Sidebar */
